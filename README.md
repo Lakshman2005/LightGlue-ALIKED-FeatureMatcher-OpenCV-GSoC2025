@@ -1,10 +1,5 @@
 # LightGlue-ALIKED-FeatureMatcher-OpenCV-GSoC2025
 GSoC 2025 proposal project: Integrating LightGlue as a matcher and ALIKED as a feature detector in OpenCV, with subpixel accurate keypoint refinement.
-
-# LightGlue-ALIKED-FeatureMatcher-OpenCV-GSoC2025
-
-This repository contains my Google Summer of Code 2025 (GSoC) project proposal under the OpenCV organization.
-
 ---
 
 ## 📌 Project Title  
@@ -51,4 +46,3 @@ The goal of this project is to integrate the LightGlue feature matcher and ALIKE
 
 ---
 
-Feel free to ⭐ the repo and follow the journey!
